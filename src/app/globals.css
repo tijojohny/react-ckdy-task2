@@ -25,3 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.bg-image {
+  background-image: url('https://www.slidebackground.com/thumb/real-estate-background/real-estate-homebuy-home-banner-background-homebuym-1.jpg');
+  
+}
